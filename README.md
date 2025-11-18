@@ -32,18 +32,24 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📈 GitHub Stats
-<div >
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3leni&show_icons=true&theme=tokyonight&hide_border=true)
+<!-- Stats principales -->
+<img src="https://github-readme-stats.vercel.app/api?username=3leni&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3leni&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3leni&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3leni&theme=tokyonight)
+<br><br>
 
-![Snake](https://raw.githubusercontent.com/3leni/3leni/output/github-contribution-grid-snake.svg)
+<!-- Detalles del perfil -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3leni&theme=tokyonight" width="100%" />
 
-![Retro Stats](https://github-readme-stats-nine-teal-33.vercel.app/api?username=3leni&theme=retro&show_icons=true)
+<br><br>
 
+<!-- Serpiente -->
+<img src="https://raw.githubusercontent.com/3leni/3leni/output/snake.svg" width="100%" />
+
+<br><br>
 
 
 </div>
