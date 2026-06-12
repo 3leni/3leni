@@ -1,6 +1,6 @@
 ![Presentacion](./logos/header.png)
 
-# 👋 ¡Hola! Soy Luz Elena Tovar Flores
+# 👋 ¡Hola! Soy Luz Tovar 
 
  **Desarrolladora Full Stack Jr** | **Ingeniera en Sistemas** | **Desarrolladora de Software**
 
